@@ -1,4 +1,4 @@
 score
 =====
 
-Language Scoring: Evaluate which word, usage, or paragraph is difficult than the others. (TBA)
+Language Scoring: Evaluate which word, sentence, or paragraph is difficult than the others. (TBA)
