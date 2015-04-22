@@ -1,4 +1,5 @@
-score
-=====
+# Language Scoring
+Evaluate the difficulty level of a word, sentence, or paragraph.
 
-Language Scoring: Evaluate which word, sentence, or paragraph is more difficult than the others. (TBA)
+[Demo]
+https://twinword.com/language-scoring.php
